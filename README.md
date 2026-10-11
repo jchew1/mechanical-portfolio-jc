@@ -1,1 +1,1 @@
-# mechanicalp-portfolio-jc
+# mechanical-portfolio-jc
